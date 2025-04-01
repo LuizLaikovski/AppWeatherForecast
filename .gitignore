@@ -33,7 +33,6 @@ build/
 
 ### Variaveis de Ambiente ###
 .env
-.gitignore
 
 ### VS Code ###
 .vscode/
